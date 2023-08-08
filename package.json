@@ -1,0 +1,20 @@
+{
+  "name": "lia-luhn-algorithm",
+  "version": "1.0.0",
+  "description": "Check if input is valid through luhn algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Late1nAutumn/npm-lia-luhn-algorithm.git"
+  },
+  "keywords": [
+    "lia",
+    "luhn",
+    "algorithm"
+  ],
+  "author": "Conglin Pu",
+  "license": "ISC"
+}
